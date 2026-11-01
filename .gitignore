@@ -1,0 +1,6 @@
+data/
+*_campione.csv
+*_campione.csv.meta.json
+.DS_Store
+._*
+__pycache__/
